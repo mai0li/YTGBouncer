@@ -4,7 +4,7 @@
 
 ## Overview
 
-YTGBOuncer is a project designed to interact with YouTube's API to manage and retrieve information about channel memberships.  
+YTGBouncer is a project designed to interact with YouTube's API to manage and retrieve information about channel memberships.  
 Leveraging such info, it manages access/removal of members according to membership tiers.
 
 ## Current Features
