@@ -1,10 +1,10 @@
-# LigaCryptoBouncer
+# YTGBouncer
 
 <img src="icon.png" alt="LigaCryptoBouncer Logo" width="200"/>
 
 ## Overview
 
-LigaCryptoBouncer is a project designed to interact with YouTube's API to manage and retrieve information about channel memberships.  
+YTGBOuncer is a project designed to interact with YouTube's API to manage and retrieve information about channel memberships.  
 Leveraging such info, it manages access/removal of members according to membership tiers.
 
 ## Current Features
@@ -26,8 +26,8 @@ Leveraging such info, it manages access/removal of members according to membersh
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/mai0li/LigaCryptoBouncer.git
-   cd LigaCryptoBouncer
+   git clone https://github.com/mai0li/YTGBouncer.git
+   cd YTGBouncer
    ```
 
 2. Create and activate a Python virtual environment:
